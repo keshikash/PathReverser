@@ -12,9 +12,13 @@ This plugin is particularly useful for:
 - **Hydrological Flow Modeling**
 
 
-## Interface Preview
+##  Interface Preview
 
-![Line Direction Plugin UI](images/line_direction_ui.png)
+###  Initial View (No Features Selected)
+![Image](https://github.com/user-attachments/assets/282aff54-e00a-4ccb-a3d5-c3be21aa900e)
+
+###  After Features Are Selected
+![Image](https://github.com/user-attachments/assets/67e931f6-77ac-4759-99bc-0619cebbeef1)
 
 
 ##  Key Features
@@ -81,14 +85,11 @@ This plugin is particularly useful for:
 ## Known Limitations
 - Optimized for `fiber_cable` layers (but supports all line layers).
 - Complex curved lines may show simplified direction arrows.
-- Performance may degrade with very large datasets.
 
 
 ## Support
 
 For issues, bugs, or feature requests, contact:
-
-**Keshika Sharma**  
 b22ee040@iitj.ac.in
 
 

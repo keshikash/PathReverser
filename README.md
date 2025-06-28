@@ -3,15 +3,6 @@
 The **Line Direction** plugin is a QGIS tool designed to manage and visualize the direction of linear features (e.g., fiber optic cables, pipelines, roads) in vector layers. It provides an intuitive interface for selecting, reversing, and saving line directions with real-time visual feedback.
 
 
-## Overview
-
-This plugin is particularly useful for:
-- **Fiber Optic Network Management**
-- **Utility Infrastructure Directional Flow**
-- **Transportation Network Planning**
-- **Hydrological Flow Modeling**
-
-
 ##  Interface Preview
 
 ###  Initial View (No Features Selected)
@@ -67,14 +58,7 @@ This plugin is particularly useful for:
 -  **Feature Filtering**: Filter by attribute values for precise selection.
 -  **Label Integration**: Display cable/feature names during selection.
 -  **Change Tracking**: Prompts before exiting unsaved work.
-
-
-##  Target Use Cases
-- **Fiber Optic Cable Networks**
-- **Water/Gas Pipeline Management**
-- **One-Way Road Systems**
-- **Stream Flow in Hydrological Studies**
-
+  
 
 ## Requirements
 - QGIS 3.x
